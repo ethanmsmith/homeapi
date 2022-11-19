@@ -1,0 +1,6 @@
+type Query {
+    helloWorld: String
+    greetingMono: String
+    greetingsFlux: [String]
+    helloNumber: Int
+}
